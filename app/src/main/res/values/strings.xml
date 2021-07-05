@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BookHub</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourites">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="about_app">About App</string>
+    <string name="action_sort">Sort</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <string name="about_app_fragment">This is an app containing list of books fetched through API and JSON requests and use of Volley library. It also has the functionalities of navigation drawer, databases, adapters, recyclerview and concept of network connectivity.</string>
+    <string name="add_to_favourites">ADD TO FAVOURITES</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+</resources>
